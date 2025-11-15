@@ -1,0 +1,1 @@
+Place pet_happy/neutral/sad_stage_1..30 images here.

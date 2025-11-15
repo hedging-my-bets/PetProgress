@@ -1,0 +1,1 @@
+Initial release 2025-11-15: Home-screen widgets, XP engine, nightly nudge, dark palette.

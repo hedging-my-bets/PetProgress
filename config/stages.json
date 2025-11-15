@@ -1,0 +1,316 @@
+{
+  "schemaVersion": 2,
+  "updated": "2025-11-15",
+  "xpGainPerTask": 25,
+  "thresholds": [
+    0,
+    100,
+    200,
+    300,
+    400,
+    500,
+    600,
+    700,
+    800,
+    900,
+    1000,
+    1100,
+    1200,
+    1300,
+    1400,
+    1500,
+    1600,
+    1700,
+    1800,
+    1900,
+    2000,
+    2100,
+    2200,
+    2300,
+    2400,
+    2500,
+    2600,
+    2700,
+    2800,
+    2900,
+    3000
+  ],
+  "penaltyMultiplier": {
+    "minLevel": 1,
+    "maxLevel": 30,
+    "min": 1.0,
+    "max": 5.0
+  },
+  "stages": [
+    {
+      "index": 1,
+      "name": "Egg",
+      "assetKeys": {
+        "happy": "pet_happy_stage_1",
+        "neutral": "pet_neutral_stage_1",
+        "sad": "pet_sad_stage_1"
+      }
+    },
+    {
+      "index": 2,
+      "name": "Chicken",
+      "assetKeys": {
+        "happy": "pet_happy_stage_2",
+        "neutral": "pet_neutral_stage_2",
+        "sad": "pet_sad_stage_2"
+      }
+    },
+    {
+      "index": 3,
+      "name": "Boar",
+      "assetKeys": {
+        "happy": "pet_happy_stage_3",
+        "neutral": "pet_neutral_stage_3",
+        "sad": "pet_sad_stage_3"
+      }
+    },
+    {
+      "index": 4,
+      "name": "Coyote",
+      "assetKeys": {
+        "happy": "pet_happy_stage_4",
+        "neutral": "pet_neutral_stage_4",
+        "sad": "pet_sad_stage_4"
+      }
+    },
+    {
+      "index": 5,
+      "name": "Wolf",
+      "assetKeys": {
+        "happy": "pet_happy_stage_5",
+        "neutral": "pet_neutral_stage_5",
+        "sad": "pet_sad_stage_5"
+      }
+    },
+    {
+      "index": 6,
+      "name": "Cougar",
+      "assetKeys": {
+        "happy": "pet_happy_stage_6",
+        "neutral": "pet_neutral_stage_6",
+        "sad": "pet_sad_stage_6"
+      }
+    },
+    {
+      "index": 7,
+      "name": "Leopard",
+      "assetKeys": {
+        "happy": "pet_happy_stage_7",
+        "neutral": "pet_neutral_stage_7",
+        "sad": "pet_sad_stage_7"
+      }
+    },
+    {
+      "index": 8,
+      "name": "Jaguar",
+      "assetKeys": {
+        "happy": "pet_happy_stage_8",
+        "neutral": "pet_neutral_stage_8",
+        "sad": "pet_sad_stage_8"
+      }
+    },
+    {
+      "index": 9,
+      "name": "Tiger",
+      "assetKeys": {
+        "happy": "pet_happy_stage_9",
+        "neutral": "pet_neutral_stage_9",
+        "sad": "pet_sad_stage_9"
+      }
+    },
+    {
+      "index": 10,
+      "name": "Lion",
+      "assetKeys": {
+        "happy": "pet_happy_stage_10",
+        "neutral": "pet_neutral_stage_10",
+        "sad": "pet_sad_stage_10"
+      }
+    },
+    {
+      "index": 11,
+      "name": "Hyena",
+      "assetKeys": {
+        "happy": "pet_happy_stage_11",
+        "neutral": "pet_neutral_stage_11",
+        "sad": "pet_sad_stage_11"
+      }
+    },
+    {
+      "index": 12,
+      "name": "Grizzly Bear",
+      "assetKeys": {
+        "happy": "pet_happy_stage_12",
+        "neutral": "pet_neutral_stage_12",
+        "sad": "pet_sad_stage_12"
+      }
+    },
+    {
+      "index": 13,
+      "name": "Polar Bear",
+      "assetKeys": {
+        "happy": "pet_happy_stage_13",
+        "neutral": "pet_neutral_stage_13",
+        "sad": "pet_sad_stage_13"
+      }
+    },
+    {
+      "index": 14,
+      "name": "Cape Buffalo",
+      "assetKeys": {
+        "happy": "pet_happy_stage_14",
+        "neutral": "pet_neutral_stage_14",
+        "sad": "pet_sad_stage_14"
+      }
+    },
+    {
+      "index": 15,
+      "name": "Hippopotamus",
+      "assetKeys": {
+        "happy": "pet_happy_stage_15",
+        "neutral": "pet_neutral_stage_15",
+        "sad": "pet_sad_stage_15"
+      }
+    },
+    {
+      "index": 16,
+      "name": "Rhinoceros",
+      "assetKeys": {
+        "happy": "pet_happy_stage_16",
+        "neutral": "pet_neutral_stage_16",
+        "sad": "pet_sad_stage_16"
+      }
+    },
+    {
+      "index": 17,
+      "name": "Elephant",
+      "assetKeys": {
+        "happy": "pet_happy_stage_17",
+        "neutral": "pet_neutral_stage_17",
+        "sad": "pet_sad_stage_17"
+      }
+    },
+    {
+      "index": 18,
+      "name": "Crocodile",
+      "assetKeys": {
+        "happy": "pet_happy_stage_18",
+        "neutral": "pet_neutral_stage_18",
+        "sad": "pet_sad_stage_18"
+      }
+    },
+    {
+      "index": 19,
+      "name": "Komodo Dragon",
+      "assetKeys": {
+        "happy": "pet_happy_stage_19",
+        "neutral": "pet_neutral_stage_19",
+        "sad": "pet_sad_stage_19"
+      }
+    },
+    {
+      "index": 20,
+      "name": "Anaconda",
+      "assetKeys": {
+        "happy": "pet_happy_stage_20",
+        "neutral": "pet_neutral_stage_20",
+        "sad": "pet_sad_stage_20"
+      }
+    },
+    {
+      "index": 21,
+      "name": "Great White Shark",
+      "assetKeys": {
+        "happy": "pet_happy_stage_21",
+        "neutral": "pet_neutral_stage_21",
+        "sad": "pet_sad_stage_21"
+      }
+    },
+    {
+      "index": 22,
+      "name": "Orca",
+      "assetKeys": {
+        "happy": "pet_happy_stage_22",
+        "neutral": "pet_neutral_stage_22",
+        "sad": "pet_sad_stage_22"
+      }
+    },
+    {
+      "index": 23,
+      "name": "Bull",
+      "assetKeys": {
+        "happy": "pet_happy_stage_23",
+        "neutral": "pet_neutral_stage_23",
+        "sad": "pet_sad_stage_23"
+      }
+    },
+    {
+      "index": 24,
+      "name": "Stallion",
+      "assetKeys": {
+        "happy": "pet_happy_stage_24",
+        "neutral": "pet_neutral_stage_24",
+        "sad": "pet_sad_stage_24"
+      }
+    },
+    {
+      "index": 25,
+      "name": "Silverback Gorilla",
+      "assetKeys": {
+        "happy": "pet_happy_stage_25",
+        "neutral": "pet_neutral_stage_25",
+        "sad": "pet_sad_stage_25"
+      }
+    },
+    {
+      "index": 26,
+      "name": "Eagle",
+      "assetKeys": {
+        "happy": "pet_happy_stage_26",
+        "neutral": "pet_neutral_stage_26",
+        "sad": "pet_sad_stage_26"
+      }
+    },
+    {
+      "index": 27,
+      "name": "Dragon",
+      "assetKeys": {
+        "happy": "pet_happy_stage_27",
+        "neutral": "pet_neutral_stage_27",
+        "sad": "pet_sad_stage_27"
+      }
+    },
+    {
+      "index": 28,
+      "name": "Human CEO",
+      "assetKeys": {
+        "happy": "pet_happy_stage_28",
+        "neutral": "pet_neutral_stage_28",
+        "sad": "pet_sad_stage_28"
+      }
+    },
+    {
+      "index": 29,
+      "name": "Golden CEO",
+      "assetKeys": {
+        "happy": "pet_happy_stage_29",
+        "neutral": "pet_neutral_stage_29",
+        "sad": "pet_sad_stage_29"
+      }
+    },
+    {
+      "index": 30,
+      "name": "Legendary Golden CEO",
+      "assetKeys": {
+        "happy": "pet_happy_stage_30",
+        "neutral": "pet_neutral_stage_30",
+        "sad": "pet_sad_stage_30"
+      }
+    }
+  ]
+}

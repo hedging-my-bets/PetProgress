@@ -1,0 +1,1 @@
+Start here: create accounts, build Android AAB, set up listings, then iOS CI. See README.

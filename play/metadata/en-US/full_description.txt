@@ -1,0 +1,7 @@
+PetProgress turns your Home Screen into a habit cockpit. Complete, skip, or browse your hourly task right from the widget; earn XP to evolve your pet, miss too much and it de‑evolves. 
+• Small/Medium widgets: see current task + pet
+• Grace Minutes prevent unfair misses
+• Nightly 8pm reminder (local)
+• Free: 4 tasks/day, stages 1–9 (overflow visible)
+• Pro: full progression, naming, cosmetics, future boss events
+Privacy-first: local data by default.

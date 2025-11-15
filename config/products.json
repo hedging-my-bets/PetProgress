@@ -1,0 +1,22 @@
+{
+  "subscriptions": [
+    {
+      "id": "pp.pro.monthly",
+      "price": "4.99"
+    },
+    {
+      "id": "pp.pro.yearly",
+      "price": "29.99"
+    }
+  ],
+  "inApp": [
+    {
+      "id": "pp.skin.goldpack",
+      "type": "non_consumable"
+    },
+    {
+      "id": "pp.ticket.vacationshield7",
+      "type": "consumable"
+    }
+  ]
+}

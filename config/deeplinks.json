@@ -1,0 +1,10 @@
+{
+  "scheme": "myapp",
+  "actions": [
+    "complete",
+    "miss",
+    "skip",
+    "prev",
+    "next"
+  ]
+}
